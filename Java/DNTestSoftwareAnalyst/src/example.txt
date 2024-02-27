@@ -1,0 +1,4 @@
+7.  Escreva uma função para determinar se uma palavra faz parte de um dado texto.
+8.  Escreva uma função para encontrar a maior palavra dentro de um dado texto.
+9.  Escreva uma função para encontrar as cinco maiores palavras dentro de um dado texto.
+10. Escreva uma função que aceite 10 números inteiros e, ao final do processamento, imprima o maior e o menor números.
